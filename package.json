@@ -1,0 +1,41 @@
+{
+  "name": "pariaturaccusantium",
+  "description": "Wallet address validator for Bitcoin and other Altcoins.",
+  "keywords": [
+    "bitcoin",
+    "litecoin",
+    "dogecoin",
+    "altcoin",
+    "address",
+    "wallet",
+    "validator",
+    "javascript",
+    "browser",
+    "nodejs"
+  ],
+  "version": "1.0.0",
+  "author": "NyasiaLehner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElectaHilpert/pariaturaccusantium.git"
+  },
+  "main": "src/wallet_address_validator",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "jssha": "1.6.0"
+  },
+  "devDependencies": {
+    "chai": "latest",
+    "grunt": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-mocha": "latest",
+    "grunt-simple-mocha": "latest",
+    "mocha": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/ElectaHilpert/pariaturaccusantium.git/issues"
+  }
+}
